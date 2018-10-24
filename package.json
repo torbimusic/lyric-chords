@@ -1,0 +1,22 @@
+{
+  "name": "@torbimusic/lyric-chords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torbimusic/lyric-chords.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torbimusic/lyric-chords/issues"
+  },
+  "homepage": "https://github.com/torbimusic/lyric-chords#readme",
+  "dependencies": {
+    "@torbimusic/core": "^1.0.26"
+  }
+}
