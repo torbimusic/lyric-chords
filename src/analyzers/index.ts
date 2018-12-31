@@ -1,0 +1,1 @@
+export { SongAnalyzer } from './song.analyzer'
